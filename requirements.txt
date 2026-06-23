@@ -1,0 +1,6 @@
+spotipy==2.24.0
+python-dotenv==1.0.1
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
+openai==1.54.4
+pyinstaller==6.11.1
